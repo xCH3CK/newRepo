@@ -1,3 +1,47 @@
+hl {
+	width: 50%;
+	margin: 0 25%;
+	text-align: center;
+}
+
+
+
 .greenf {
 	color: green;
+}
+
+#big{
+	font-size: 60px;
+}
+
+
+/* Starting Nav CSS */
+nav{
+	position: absolute;
+	right: 10px;
+}
+
+nav {
+	background-color: black;
+}
+
+nav ul li:hover{
+	background-color: gray;
+	color: black;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+nav ul li {
+	float: left;
+}
+
+nav ul li a {
+	display: block;
+	padding: 0 5px;
+	text-decoration: none;
+	color: white;
 }
