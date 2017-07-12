@@ -4,8 +4,6 @@ hl {
 	text-align: center;
 }
 
-
-
 .greenf {
 	color: green;
 }
@@ -27,7 +25,10 @@ nav {
 
 nav ul li:hover{
 	background-color: gray;
-	color: black;
+}
+
+nav ul li a:hover{
+	color: white;
 }
 
 nav ul {
@@ -45,3 +46,4 @@ nav ul li a {
 	text-decoration: none;
 	color: white;
 }
+
